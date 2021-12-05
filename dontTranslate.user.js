@@ -1,7 +1,7 @@
 // ==UserScript==
 // @description Block automatic title translations on YouTube 
 // @name        Don't translate YouTube titles
-// @include     *://youtube.com/watch*
+// @include     *://www.youtube.com/*
 // @version     v1.0
 // ==/UserScript==
 
