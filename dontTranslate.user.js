@@ -1,8 +1,8 @@
 // ==UserScript==
 // @description Block automatic title translations on YouTube 
 // @name        Don't translate YouTube titles
-// @match           https://www.youtube.com/*
-// @match           https://m.youtube.com/*
+// @match           https://www.youtube.com/watch*
+// @match           https://m.youtube.com/watch*
 // @namespace       https://github.com/hyperstown/dont-translate-youtube-titles
 // @supportURL      https://github.com/hyperstown/dont-translate-youtube-titles/issues
 // @run-at          document-start
